@@ -4,3 +4,4 @@ Release_modify
 Add feature_1
 
 Add f_2
+Add f_2 new feature
