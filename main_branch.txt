@@ -5,3 +5,5 @@ Release_modify_2
 Release_modify_3
 
 Add feature_1
+Add feature_1
+Add feature_2
