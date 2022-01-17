@@ -1,20 +1,2 @@
 Example of main_branch
-Release_features
-Release_modify
-Add feature_1
-Release_modify_2
-Release_modify_3
-
-Add f_2
-Add f_2 new feature
-Add f_2 new feature mod
-Add f_2 new feature 3
-Add f_2 new feature 4
-Add f_2 new feature 5
-Add f_2 new feature 6
-
-Add feature_1
-Add feature_2
-Add feature_3
-Add feature_4
-
+m_1
