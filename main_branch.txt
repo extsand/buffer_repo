@@ -1,2 +1,6 @@
 Example of main_branch
 modify main_branch
+Add some from rebase_branch
+Some-1-rebase_branch
+Some-2-rebase_branch
+main_branch-line
