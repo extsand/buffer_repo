@@ -1,2 +1,3 @@
-# buffer_repo
-some buffer for you
+## Example repo
+
+Repository for testing, buffering and other.
