@@ -1,3 +1,4 @@
 Example of main_branch
 Release_features
 Add feature_1
+Add feature_2
